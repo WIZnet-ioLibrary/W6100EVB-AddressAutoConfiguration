@@ -31,18 +31,18 @@
 <booleanAttribute key="com.atollic.hardwaredebug.launch.useRemoteTarget" value="true"/>
 <booleanAttribute key="com.atollic.hardwaredebug.launch.verify_flash_download" value="true"/>
 <booleanAttribute key="com.atollic.hardwaredebug.stlink.enable_logging" value="false"/>
-<stringAttribute key="com.atollic.hardwaredebug.stlink.log_file" value="I:\99_GitHub\WIZet_Reference\W6100\W6100_EVB\TrueStudio\W6100_AddressAutoConfiguration\Debug\st-link_gdbserver_log.txt"/>
+<stringAttribute key="com.atollic.hardwaredebug.stlink.log_file" value="I:\99_GitHub\WIZet_Reference\W6100\W6100_EVB\TrueStudio\W6100EVB-AddressAutoConfiguration\Debug\st-link_gdbserver_log.txt"/>
 <booleanAttribute key="com.atollic.hardwaredebug.stlink.stlink_check_serial_number" value="false"/>
 <stringAttribute key="com.atollic.hardwaredebug.stlink.stlink_txt_serial_number" value=""/>
 <stringAttribute key="org.eclipse.cdt.dsf.gdb.DEBUG_NAME" value="${TOOLCHAIN_PATH}/arm-atollic-eabi-gdb"/>
 <intAttribute key="org.eclipse.cdt.launch.ATTR_BUILD_BEFORE_LAUNCH_ATTR" value="2"/>
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_REGISTER_GROUPS" value=""/>
-<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/W6100_AddressAutoConfiguration.elf"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="W6100_AddressAutoConfiguration"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/W6100EVB-AddressAutoConfiguration.elf"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="W6100EVB-AddressAutoConfiguration"/>
 <booleanAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_AUTO_ATTR" value="false"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value=""/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/W6100_AddressAutoConfiguration"/>
+<listEntry value="/W6100EVB-AddressAutoConfiguration"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
